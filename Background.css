@@ -1,0 +1,21 @@
+h2 {
+    font-family: "Courier New";
+    text-align: center;
+}
+
+button {
+    background-color: lightslategray;
+    color: white;
+    padding: 12px 24px;
+    border: 2px solid white;
+    border-radius: 8px;
+    font-size: 25px;
+    font-family: "Courier New";
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: slategray;
+    box-shadow: black;
+}
